@@ -1,7 +1,7 @@
 #name of container: docker-dspace
 #versison of container: 0.5.2
-FROM jalalomary/docker54
-MAINTAINER Jalal Omari  "jalalaldeen@gmail.com"
+FROM quantumobject/docker-tomcat8
+MAINTAINER Jalal Omari "jalalaldeen@gmail.com"
 
 #add repository and update the container
 #Installation of nesesary package/software for this containers...
